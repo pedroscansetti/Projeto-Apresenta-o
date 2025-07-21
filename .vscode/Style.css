@@ -5,7 +5,7 @@
 }
 :root {
   --text-color: white;
-  --bg-url: url(./assets/bg-desktop.jpg);
+  --bg-url: url(./assets/bg-mobile.jpg);
   --border-color-profile: rgba(255, 0, 255, 0.5);
   --background-social: purple;
   --background-color-border-hover: purple;
@@ -18,7 +18,7 @@
 }
 .light {
   --text-color: purple;
-  --bg-url: url(./assets/bg-desktop-light.jpg);
+  --bg-url: url(./assets/bg-mobile-light.jpg);
   --border-color-profile: gray;
   --background-social: rgba(73, 73, 73, 0.336);
   --background-color-border-hover: gray;
@@ -35,6 +35,7 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
+  height: 100vh;
 }
 body * {
   font-family: "Inter", sans-serif;
@@ -182,4 +183,14 @@ ul li a {
 ul li a:hover {
   border: 1.5px solid var(--background-color-border-hover);
   background: var(--surface-color-dark-mode-hover);
+}
+
+/* media queries */
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
 }
