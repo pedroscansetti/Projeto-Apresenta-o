@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Apresentação </h1>
 
 <p align="center">
-Projeto exclusivo.
+Projeto Apresentação.
 </p>
 
 <p align="center">
