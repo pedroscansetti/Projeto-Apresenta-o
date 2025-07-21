@@ -46,7 +46,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
 
   margin: auto;
   margin-top: 56px;
@@ -59,11 +60,11 @@ body * {
 }
 
 #profile img {
-  display: block;
+  display: flex;
   width: 112px;
-  height: 112px;
+  height: 111px;
   margin: auto;
-  border-radius: 100%;
+  border-radius: 112px;
   border: 2px solid var(--border-color-profile);
   transition: border 0.5s;
 }
