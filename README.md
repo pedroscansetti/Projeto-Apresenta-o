@@ -18,7 +18,7 @@ Projeto Apresentação.
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/VIEW.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".vscode/.github/VIEW.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
