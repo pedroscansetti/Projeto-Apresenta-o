@@ -8,7 +8,9 @@ function toggleMode() {
   }
   //substituir a imagem
   const img = document.querySelector("#profile img")
+
   //se tiver light mode
+
   if (html.classList.contains("light")) {
     img.setAttribute("src", "./assets/avatar light.jpg ")
   } else {
