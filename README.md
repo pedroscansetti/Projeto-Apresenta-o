@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Apresentação </h1>
+<h1 align="center"> Projeto Social </h1>
 
 <p align="center">
 Projeto Apresentação.
