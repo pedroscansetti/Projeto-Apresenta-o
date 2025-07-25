@@ -99,10 +99,12 @@ body * {
   top: 50%;
   transform: translateY(-50%);
   animation: deslize-volta 0.5s;
+  outline: 8px solid transparent;
+  transition: outline 0.4s;
 }
 
 #switch button:hover {
-  outline: 5px solid var(--background-social);
+  outline: 8px solid var(--background-social);
   border-radius: 9999px;
 
   box-shadow: 0px 6px 14px 0px purple;
