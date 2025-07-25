@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Social </h1>
 
 <p align="center">
-Projeto Apresentação.
+Projeto Social.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Projeto é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
